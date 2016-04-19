@@ -1,1 +1,4 @@
 foobar for git test
+
+
+line added from a different git dir
